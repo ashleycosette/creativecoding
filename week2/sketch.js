@@ -5,9 +5,10 @@ function setup() {
 }
 
 function draw() {
-  ellipse(300, 200, 170, 80);
-  ellipse(300, 210, 80, 20);
-  ellipse(340, 160, 20, 20);
-  ellipse(260, 160, 20, 20);
   // put drawing code here
+  fill(0);
+  beginShape();
+  vertex(50, 120);
+  vertex(100, 90);
+  vertex(110, 60);
 }
