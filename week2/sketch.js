@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(800, 400);
-  background(255, 175, 252);
+  background(204);
   // put setup code here
 }
 
@@ -21,4 +21,8 @@ function draw() {
   fill(255, 255, 0);
   ellipse(155, 60, 8, 8);
   // created a creature
+
+
+
+
 }
