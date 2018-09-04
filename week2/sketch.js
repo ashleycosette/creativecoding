@@ -77,21 +77,21 @@ function draw() {
   // noFill();
   // ellipse(228, -16, 200, 200);
   // circles that overlap and no fill
-
-  fill(0);
-  beginShape();
-  vertex(50, 120);
-  vertex(100, 90);
-  vertex(110, 60);
-  vertex(80, 20);
-  vertex(210, 60);
-  vertex(160, 80);
-  vertex(200, 90);
-  vertex(140, 100);
-  vertex(130, 120);
-  endShape();
-  fill(255, 255, 0);
-  ellipse(155, 60, 8, 8);
+  // 
+  // fill(0);
+  // beginShape();
+  // vertex(50, 120);
+  // vertex(100, 90);
+  // vertex(110, 60);
+  // vertex(80, 20);
+  // vertex(210, 60);
+  // vertex(160, 80);
+  // vertex(200, 90);
+  // vertex(140, 100);
+  // vertex(130, 120);
+  // endShape();
+  // fill(255, 255, 0);
+  // ellipse(155, 60, 8, 8);
   // created a creature
 
   // fill(255);
