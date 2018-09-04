@@ -94,23 +94,45 @@ function draw() {
   ellipse(155, 60, 8, 8);
   // created a creature
 
+  // fill(255);
+  // beginShape();
+  // vertex(370, 120);
+  // vertex(360, 90);
+  // vertex(290, 80);
+  // vertex(340, 70);
+  // vertex(280, 50);
+  // vertex(420, 10);
+  // vertex(390, 50);
+  // vertex(410, 90);
+  // vertex(460, 120);
+  // endShape();
+  // fill(0);
+  // ellipse(345, 50, 10, 10);
+  // // created a creature
+
+
   fill(255);
   beginShape();
-  vertex(370, 120);
+  vertex(400, 120);
+  vertex(410, 160);
   vertex(360, 90);
-  vertex(290, 80);
+  vertex(270, 80);
   vertex(340, 70);
-  vertex(280, 50);
+  vertex(260, 50);
   vertex(420, 10);
+  vertex(400, 50);
+  vertex(440, 100);
   vertex(390, 50);
   vertex(410, 90);
+  vertex(410, 100);
   vertex(460, 120);
   endShape();
-  fill(0);
-  ellipse(345, 50, 10, 10);
+  fill(255, 36, 220);
+  ellipse(345, 50, 12, 12);
+  fill(255, 36, 220);
+  ellipse(365, 50, 15, 15);
+  fill(255, 36, 220);
   // created a creature
-
-
 
 
 }
