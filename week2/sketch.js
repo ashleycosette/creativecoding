@@ -4,8 +4,8 @@ function setup() {
   createCanvas(800, 400);
   background(204);
   angleMode(DEGREES);
-  strokeWeight(10);
-  noStroke();
+  // strokeWeight(10);
+  // noStroke();
 
 }
 
