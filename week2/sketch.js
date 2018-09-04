@@ -112,6 +112,7 @@ function draw() {
 
 
   fill(255);
+  strokeWeight(4);
   beginShape();
   vertex(400, 120);
   vertex(410, 160);
