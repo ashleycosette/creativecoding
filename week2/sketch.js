@@ -77,7 +77,7 @@ function draw() {
   // noFill();
   // ellipse(228, -16, 200, 200);
   // circles that overlap and no fill
-  // 
+  //
   // fill(0);
   // beginShape();
   // vertex(50, 120);
