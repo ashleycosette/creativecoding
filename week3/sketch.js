@@ -6,7 +6,7 @@ var s = 20;
 function setup() {
   createCanvas(800, 400);
   background(204);
-  noFill();
+  fill(255, 255, 255);
   // put setup code here
 }
 
