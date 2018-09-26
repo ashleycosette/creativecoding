@@ -32,7 +32,6 @@ rect(330, 30, 60, 60);
 
 
 
-
 // if(mouseY<40) {
 //   fill(255, 0, 0);
 // }else if (mouseY <80){
