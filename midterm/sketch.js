@@ -67,17 +67,22 @@ function draw() {
   if(keyIsPressed) {
     if(keyCode == LEFT_ARROW) {
       x = x - 5;
+      image(bird, x, 100, 100, 100);
     }  else if(keyCode == RIGHT_ARROW) {
       x = x + 5;
+      image(bird, x, 100, 100, 100);
     }
     if(keyCode == UP_ARROW) {
       y = y - 5;
+      image(bird2, 100, y, 100, 100);
     }
 
     if(keyCode == DOWN_ARROW) {
       y = y + 5;
+      image(bird2, 100, y, 100, 100);
     }
-    image(bird, x, y, 100, 100);
+
+
     /*if(key == 'd') {
       stroke(250, 255, 0);
       line (x + 10, y + 5, width, y + 5);
