@@ -56,7 +56,7 @@ function preload() {
 
   q2 = loadImage ('q2.png');
 
-  congrats = loadImage ('congrats.png')
+  congrats = loadImage ('congrats1.png')
 
   song = loadSound('Project.mp3');
 
