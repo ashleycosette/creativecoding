@@ -14,7 +14,7 @@ var bfb;
 var q1;
 var q2;
 var congrats;
-var song;
+// var song;
 
 //other vars
 var offset = 0;
@@ -58,7 +58,7 @@ function preload() {
 
   congrats = loadImage ('congrats1.png')
 
-  song = loadSound('Project.mp3');
+  // song = loadSound('Project.mp3');
 
 
 }
@@ -121,12 +121,12 @@ btn3 = createButton('Back Button');
 //   }
 // }
 
-function mousePressed()
-{
-  // trigger sound
-  sound.play();
-
-}
+// function mousePressed()
+// {
+//   // trigger sound
+//   sound.play();
+//
+// }
 
 
 }
